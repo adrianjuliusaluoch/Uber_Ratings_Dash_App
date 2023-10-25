@@ -1,0 +1,33 @@
+.banner {
+    display: block;
+    margin-left: 400px;
+}
+
+.banner h2 {
+    color:white;
+    font-size: 5.0rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.banner P {
+    color: white;
+    margin-top: 50px;
+}
+
+.input {
+    width: 50%;
+    font-size: 1.0rem;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 15px;
+}
+
+.banner Img {
+    width: 50px;
+    height: 50px;
+}
+
+body {
+    background-color: black;
+}
